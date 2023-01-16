@@ -1,10 +1,12 @@
 <h1>Dratewka_the_shoemaker</h1>
 
 <h2>About game</h2>
-<h3>This is the port of game on Atari 8bit family</h3>
-<h3>link to official game: https://www.mobygames.com/game/dratewka-the-shoemaker</h3>
+<p>This is the port of game on Atari 8bit family</p>
+<p>Link to official game: https://www.mobygames.com/game/dratewka-the-shoemaker</p>
+<p>In game you can move by typing</p>
+<p>PS. To win this game you should find instruction</p>
 
-<h2>How to start application?</h2>
+<h2>How to start game?</h2>
 <ol>
   <li>Make sure that you have installed git command line</li>
   <li>Create empty folder</li>
